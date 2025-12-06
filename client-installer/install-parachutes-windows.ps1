@@ -167,7 +167,21 @@ $FILES = @(
     "materials/models/parachute/zombie/gargoyle_wings/gargoyle.vmt",
     "materials/models/parachute/zombie/gargoyle_wings/gargoyle.vtf",
     "materials/models/parachute/zombie/gargoyle_wings/pack.vmt",
-    "materials/models/parachute/zombie/gargoyle_wings/pack.vtf"
+    "materials/models/parachute/zombie/gargoyle_wings/pack.vtf",
+
+    # Modelos - Phoenix
+    "models/parachute/phoenix.mdl",
+    "models/parachute/phoenix.vvd",
+    "models/parachute/phoenix.dx90.vtx",
+    "materials/models/parachute/phoenix.vmt",
+    "materials/models/parachute/phoenix.vtf",
+
+    # Modelos - Dragon
+    "models/parachute/dragon.mdl",
+    "models/parachute/dragon.vvd",
+    "models/parachute/dragon.dx90.vtx",
+    "materials/models/parachute/dragon.vmt",
+    "materials/models/parachute/dragon.vtf"
 )
 
 $TOTAL_FILES = $FILES.Count
@@ -249,6 +263,16 @@ Write-Host -ForegroundColor Cyan "║" -NoNewline
 Write-Host "  " -NoNewline
 Write-Host -ForegroundColor Green "✓" -NoNewline
 Write-Host " Gargoyle Wings (Zombie style)                         " -NoNewline
+Write-Host -ForegroundColor Cyan "║"
+Write-Host -ForegroundColor Cyan "║" -NoNewline
+Write-Host "  " -NoNewline
+Write-Host -ForegroundColor Green "✓" -NoNewline
+Write-Host " Phoenix Wings                                         " -NoNewline
+Write-Host -ForegroundColor Cyan "║"
+Write-Host -ForegroundColor Cyan "║" -NoNewline
+Write-Host "  " -NoNewline
+Write-Host -ForegroundColor Green "✓" -NoNewline
+Write-Host " Dragon Wings                                          " -NoNewline
 Write-Host -ForegroundColor Cyan "║"
 Write-Host -ForegroundColor Cyan "╚════════════════════════════════════════════════════════════╝"
 Write-Host ""

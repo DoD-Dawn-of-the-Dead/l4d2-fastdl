@@ -9,13 +9,15 @@ Scripts para instalar arquivos de paraquedas automaticamente no cliente L4D2 sem
 - ✅ Instala nos diretórios corretos
 - ✅ Mostra barra de progresso bonita
 - ✅ Não causa crashes no jogo
-- ✅ **Baixa 6 modelos de paraquedas:**
+- ✅ **Baixa 8 modelos de paraquedas:**
   - Blue Parachute (Padrão)
   - Gargoyle
   - Ice Parachute v2 (VIP)
   - Carbon Parachute
   - Green Parachute v2
   - Gargoyle Wings (Zombie style)
+  - Phoenix Wings
+  - Dragon Wings
 
 ## 🐧 Linux
 
