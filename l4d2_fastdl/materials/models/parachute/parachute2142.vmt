@@ -1,0 +1,17 @@
+
+VertexLitGeneric
+{
+
+	$basetexture			models/parachute/parachute2142_d
+	$bumpmap				models/parachute/parachute2142_b
+	
+	$halflambert			1
+	$ambientocclusion		1
+	$ambientoccltexture		models/parachute/parachute2142_a
+	
+	$detail             	models/parachute/detail/cloth2002
+	$detailscale			8
+	$detailblendfactor		1
+	$detailblendmode			0
+
+}
